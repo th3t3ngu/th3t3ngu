@@ -1,5 +1,5 @@
 ---
 # the default layout is 'page'
 icon: fa-brands fa-hackerrank
-order: 3
+order: 2
 ---
