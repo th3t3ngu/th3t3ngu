@@ -14,4 +14,4 @@ Deswegen: Allen, die sich eher eine Dokumentation im Stile einer Informationssic
 
 Eine Übersicht (sortiert nach Box-OS) samt (meiner Meinung nach) Schwerpunkt in der Reihenfolge des Erscheinens:
 
-
+  - **Headless** - Linux -  Cross Site Request Forgery, PATH-Variable-Exploit
