@@ -14,4 +14,5 @@ Deswegen: Allen, die sich eher eine Dokumentation im Stile einer Informationssic
 
 Eine Übersicht (sortiert nach Box-OS) samt (meiner Meinung nach) Schwerpunkt in der Reihenfolge des Erscheinens:
 
-  - **Headless** - Linux -  Cross Site Request Forgery, PATH-Variable-Exploit
+  - **[Headless](https://th3t3ngu.github.io/th3t3ngu/posts/Headless/)** - Linux -  Cross Site Request Forgery, PATH-Variable-Exploit
+ - **[DevVortex](https://th3t3ngu.github.io/th3t3ngu/posts/Devvortex/)** - Linux - Joomla, CVE
