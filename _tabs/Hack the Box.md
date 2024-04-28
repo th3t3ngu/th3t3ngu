@@ -16,3 +16,4 @@ Eine Übersicht (sortiert nach Box-OS) samt (meiner Meinung nach) Schwerpunkt in
 
   - **[Headless](https://th3t3ngu.github.io/th3t3ngu/posts/Headless/)** - Linux -  Cross Site Request Forgery, PATH-Variable-Exploit
  - **[DevVortex](https://th3t3ngu.github.io/th3t3ngu/posts/Devvortex/)** - Linux - Joomla, CVE
+  - **[Perfection](https://th3t3ngu.github.io/th3t3ngu/posts/Perfection/)** - Linux - Server Side Template Injection

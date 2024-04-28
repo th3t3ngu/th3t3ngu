@@ -2,7 +2,7 @@
 title: Devvortex
 date: 2024-03-26
 categories: [HTB]
-tags: [htb]     # TAG names should always be lowercase
+tags: [htb, joomla, cve]     # TAG names should always be lowercase
 image: https://i.ibb.co/LZ9f3Mx/Devvortex.png
 ---
 
