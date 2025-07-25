@@ -1,6 +1,6 @@
 ---
 title: Environment
-date: 2025-04-22
+date: 2025-07-22
 categories: [HTB]
 tags: [htb, laravel, env, bypass]     # TAG names should always be lowercase
 image: https://i.ibb.co/jPQXKTsP/Environment.png
