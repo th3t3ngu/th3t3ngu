@@ -19,7 +19,9 @@ Schlagen wir mal eine Schneise in das Dickicht und merken uns die vielen untersc
 Unser [ferox](https://github.com/epi052/feroxbuster) müsste mittlerweile schon einiges zutage gefördert haben, unter anderem:
 
 2) `/login` bringt uns zum Weblogin vom Marketing Management Portal. Wir merken uns hier vor allem Marketing.
+
 3) unter`/up` gibt es ein kleines [tailwind](https://tailwindcss.com)-snippet, dass darüber Auskunft gibt,  dass eine nicht näher genannte "Application" gerade läuft.  Es sagt auch, dass es einen HTTP-Request empfangen hat. Waren wir das?
+
 4) `/upload` und `/mailing` sind [Ignition](https://github.com/spatie/laravel-ignition)-Errorpages und gleichen sich in der Hinsicht, dass sie beim Aufrufen einen 405 werfen und uns sagen, dass GET nicht erlaubt ist, nur POST. Zusätzlich bekommen wir noch eine PHP- und [Laravel](https://github.com/laravel/laravel)-Version, und irgendwie scheint auch [Symfony](https://github.com/symfony/symfony) mit drin zu hängen. 
 Laravel in dieser Version ist [angreifbar](https://muneebdev.com/laravel-11-30-0-exploit/). 
 
